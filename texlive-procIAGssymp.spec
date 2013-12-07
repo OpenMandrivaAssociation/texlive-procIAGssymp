@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-procIAGssymp
 Version:	20070106
-Release:	4
+Release:	5
 Summary:	Macros for IAG symposium papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/procIAGssymp
