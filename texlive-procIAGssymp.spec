@@ -1,6 +1,6 @@
 Name:		texlive-procIAGssymp
 Version:	63242
-Release:	1
+Release:	2
 Summary:	Macros for IAG symposium papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/procIAGssymp
