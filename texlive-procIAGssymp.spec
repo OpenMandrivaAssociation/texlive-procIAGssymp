@@ -3,7 +3,7 @@ Version:	63242
 Release:	2
 Summary:	Macros for IAG symposium papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/procIAGssymp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/procIAGssymp
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/prociagssymp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/prociagssymp.doc.r%{version}.tar.xz
